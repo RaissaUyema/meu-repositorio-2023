@@ -1,0 +1,27 @@
+.pai{
+    background-color: #ffbf47;
+    width: 500px; 
+    height: 500px;
+}
+.filha{
+    background-color: #90ee90;
+    height: 50%;
+    width: 50%;
+}
+.p{
+    color: white;
+    background-color: red; 
+    font-size: 25px; 
+    font-family: 'Courier New', Courier, monospace; 
+    font-weight: bold;
+}
+.paib{
+    width: 50%;
+    height: 50vh;
+    background-color: rgb(173, 216, 230);
+}
+.filhab{
+    width: 75vw;
+    height: 50%; 
+    background-color: rgb(255, 0, 0);
+}
